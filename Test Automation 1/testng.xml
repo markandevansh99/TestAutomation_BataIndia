@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "testng.org/testng-1.0.dtd">
+<suite name="sample">
+	<test name="try">
+		<classes>
+			<class name="Register_Reliance">
+			</class>
+		</classes>
+	</test>
+</suite>
